@@ -8,6 +8,9 @@ settings.py
 # C extensions
 *.so
 
+# PyCharm
+.idea/
+
 # Distribution / packaging
 .Python
 venv/
